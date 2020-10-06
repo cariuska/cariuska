@@ -7,7 +7,7 @@ headers = {
 }
 
 json = {
-    'Teste': 'Testando'  
+    'Teste': 'Testando Novo'
 }
 
 session = requests.Session()
@@ -15,4 +15,4 @@ session.headers = headers
 
 response = session.post(url, json=json)
 
-print(response)
+print(response)   
