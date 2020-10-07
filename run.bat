@@ -1,3 +1,5 @@
+cls
+
 set versao=%1
 
 docker build --tag cariuska:%versao% .
