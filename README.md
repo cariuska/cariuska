@@ -5,9 +5,10 @@ I'm Thiago, I have been a developer for over 15 years. Check out my [website](ht
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cariuska)
 
 ## Languages I've used
-![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20-%23323330.svg?&style=for-the-badge&logo=c-sharp&logoColor=green)
+![Python](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-%23323330.svg?&style=for-the-badge&logo=java&logoColor=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cariuska&hide=css)](https://github.com/cariuska)
 
