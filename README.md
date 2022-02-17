@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Thiago, I have been a developer for over 15 years. Check out my [website](https://cariuska.com.br) to learn more about me!
+I'm Thiago, I have been a developer for over 15 years. Check out my [website](https://cariuska.dev) to learn more about me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cariuska)
 
